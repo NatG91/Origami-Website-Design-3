@@ -1,10 +1,9 @@
  .Origami{
     border: radius 20px;
     display:flex;
-    background-color: aqua;
+    background-color: orange;
     padding:30px;
     margin:25px;
-    width:310px;
     font-family:fantasy;
    justify-content: space-between;
 } 
@@ -13,27 +12,26 @@ body{
     background-color:thistle
 }
 .Snake{
-    display:flex;
     background-color: aqua;
     font-family:fantasy;
    justify-content: space-between;
- 
+   padding:30px;
+   margin:25px;
 }
 .Owls{
-    display:flex;
     background-color: aqua;
     font-family:fantasy;
    justify-content: space-between;
-
+   padding:30px;
+   margin:25px;
 }
 .Dragon{
-    display:flex;
     background-color: aqua;
     font-family:fantasy;
    justify-content: space-between;
-
+   padding:30px;
+   margin:25px;
 }
 .Item{
-    display:flex;
     justify-content: space-between;
    }
